@@ -1,0 +1,27 @@
+<RCC>
+  <qresource>
+    <file>Console.png</file>
+    <file>Graphical.png</file>
+    <file>official.png</file>
+    <file>unofficial.png</file>
+    <file>arrow_forward.png</file>
+    <file>arrow_backward.png</file>
+    <file>others.png</file>
+    <file>network.png</file>
+    <file>multimedia.png</file>
+    <file>input_field_success.png</file>
+    <file>label.png</file>
+    <file>input_field_error.png</file>
+    <file>input_field_disabled.png</file>
+    <file>input_field.png</file>
+    <file>down_arrow.png</file>
+    <file>docs.png</file>
+    <file>checkBox_unchecked.png</file>
+    <file>checkBox_checked.png</file>
+    <file>ArchStrapIcon.png</file>
+    <file>15694142_5660786.jpeg</file>
+    <file>tools.png</file>
+    <file>security.png</file>
+    <file>science.png</file>
+  </qresource>
+</RCC>
