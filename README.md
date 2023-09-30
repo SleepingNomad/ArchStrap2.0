@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-- [PyQt6]( pip install pyqt6)
+- [PyQt6]
 
 ## Table of Contents
 - [Installation](#installation)
